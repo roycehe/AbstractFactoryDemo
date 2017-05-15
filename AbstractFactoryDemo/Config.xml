@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phones>
+    <phone id = "1" className="MeizuPhone" />
+    <phone id = "2" className="HUAWEIPhone" />
+</phones>
